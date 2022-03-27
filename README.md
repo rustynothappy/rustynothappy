@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustynothappy" alt="rustynothappy" /></a> </p>
 
-- 🔭 I’m currently working on **Diabetes predictor**
+- 🔭 I’m currently working on **packing box/cardboard detect & count ,using yolo **
 
 - 🌱 I’m currently learning **| DEEP LEARNING |**
 
